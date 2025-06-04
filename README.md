@@ -1,2 +1,5 @@
+# Pet-Shop
 
-# pet-shop
+Vercel Deployment : (https://pet-shop-main.vercel.app/)
+
+Created by Francis Irungu
